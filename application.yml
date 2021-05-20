@@ -1,3 +1,5 @@
+user:
+  firstName: Abirami
 management:
   endpoint:
     health:
